@@ -24,6 +24,6 @@ This project took me around 2 hours to finish. understanding backgound-position 
 
 ## 📷 Screenshots
 
-![image](./screenshot/screenshot.png)
+![image](./Screenshot/screenshot.png)
 
 [<img src= "https://img.shields.io/badge/PROJCET LINK-1DA55F?style=for-the-badge&logo=&logoColor=white" />](https://fsjs-ineuron-project-05-html-css.netlify.app/)
